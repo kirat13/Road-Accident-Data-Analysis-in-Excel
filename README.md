@@ -50,17 +50,17 @@ Stacked bar chart displaying casualties on dry, wet, and snow/ice road surfaces
 
 #### Casualties by Location/Area
 
-Pie chart comparing urban (255.9K) and rural (162.0K) casualties
+~ Pie chart comparing urban (255.9K) and rural (162.0K) casualties
 
 
-Casualties by Light Condition
+##### Casualties by Light Condition
 
-Pie chart showing distribution between daylight (305.0K) and dark (112.9K) conditions
+~ Pie chart showing distribution between daylight (305.0K) and dark (112.9K) conditions
 
 
 Filter Panel
 
-Date range selector (by month and year)
+~ Date range selector (by month and year)
 Urban/Rural filter
 
 
@@ -77,10 +77,6 @@ The dashboard includes multiple sheets for detailed analysis:
 ~ Tree Map
 
 ~ Donut Charts
-~ Data
-Info.
-Data Analysis Sheet
-
 
 ## Usage
 
