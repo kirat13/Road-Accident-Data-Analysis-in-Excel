@@ -78,8 +78,11 @@ The dashboard includes multiple sheets for detailed analysis:
 ~ Tree Map
 
 ~ Donut Charts
+
 ~ data
+
 ~info.
+
 ~ Analysis Sheet
 
 ## Usage
